@@ -462,3 +462,9 @@ address {
 /*FIN DE PORTAFOLIO*/
 
 
+@media (max-width: $screen-phone){
+	.fondo-home{
+		width: 100px;
+		height: 100px;
+	}
+}
