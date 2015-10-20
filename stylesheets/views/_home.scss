@@ -463,8 +463,14 @@ address {
 
 
 @media (max-width: $screen-phone){
-	.fondo-home{
-		width: 100px;
-		height: 100px;
+	.melo{
+		color: #333535;
 	}
+	.desarrolladora-web{
+		color: #333535;
+	}
+	.fondo-home{
+		background-image: url(../img/fondohome.png);
+	}
+	
 }

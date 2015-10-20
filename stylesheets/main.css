@@ -5983,5 +5983,14 @@ address {
   color: white; }
 
 /*FIN DE PORTAFOLIO*/
+@media (max-width: 480px) {
+  .melo {
+    color: #333535; }
+
+  .desarrolladora-web {
+    color: #333535; }
+
+  .fondo-home {
+    background-image: url(../img/fondohome.png); } }
 
 /*# sourceMappingURL=main.css.map */
